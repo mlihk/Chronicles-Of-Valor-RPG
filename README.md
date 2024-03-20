@@ -9,5 +9,6 @@ There is also an inventory system for players to store their collectibles and eq
 
 
 Known issues (updated on 20/03/2024)
+
 -The settings and open inventory pop up windows collides and causes visual error
 
