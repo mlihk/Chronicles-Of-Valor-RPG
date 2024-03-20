@@ -7,3 +7,7 @@ Player are able to traverse in a 10x10 grid map and encounter different things i
 
 There is also an inventory system for players to store their collectibles and equip armour/weapons to enhance their stats (strength/defence...etc)
 
+
+Known issues (updated on 20/03/2024)
+-The settings and open inventory pop up windows collides and causes visual error
+
